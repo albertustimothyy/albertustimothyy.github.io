@@ -1,0 +1,58 @@
+.navbar {
+  background: #e0e1dd;
+}
+
+section{
+  padding-top: 7em;
+}
+
+.jumbotron {
+  padding-top: 7em;
+  background-color: #0d1b2a;
+  color: #d2d5dd;
+  background-image: url(img/Backgrounds/Home.svg);
+}
+
+#foto {
+  width: 250px;
+}
+
+#about {
+  background-color: #d2d5dd;
+  color: #0d1b2a;
+}
+
+#projects {
+  background-color: #0d1b2a;
+  color: #d2d5dd;
+  background-image: url(img/Backgrounds/project.svg);
+}
+
+.card {
+  color: black;
+}
+
+#contact {
+  background-color: #d2d5dd;
+  color: #0d1b2a;
+}
+
+footer{
+  background-color: #e0e1dd;
+  color: #000;
+}
+
+.linkedin {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+.linkedin:hover{
+  font-weight: bold;
+  color: darkslateblue;
+}
+
+span{
+  padding: 1em;
+}
